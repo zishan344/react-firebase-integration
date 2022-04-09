@@ -6,7 +6,7 @@ const Login = () => {
 
   return (
     <div>
-      <h2>This si login page</h2>
+      <h2>Please Login</h2>
       <div style={{ margin: "20px" }}>
         <button onClick={signInGoogle}>Google Sign In</button>
       </div>
